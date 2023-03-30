@@ -1,0 +1,219 @@
+html, body {
+    margin: 0px;
+    margin-right: -16px;
+    padding: 0px;
+    background-color: #939B62;
+}
+
+/* Header Section  */
+
+#heading {
+    display: flex;
+}
+
+#titleName {
+    color: #FFD56F;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    font-size: 75px;
+    margin-top: 0px;
+    padding-left: 10px;
+}
+
+#headerQuote {
+    padding-left: 45%;
+    color: #FFD56F;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    padding-top: 20px;
+    font-size: 50px;
+    margin-top: 0px;
+}
+
+/* Who is he Section */
+
+#main {
+    display: flex;
+    padding-left: 20%;
+    padding-top: 2%;
+    padding-bottom: 85px;
+}
+
+#mainImage {
+    height: 400px;
+    padding-left: 10px;
+}
+
+#imageText {
+    padding-top: 30px;
+    padding-left: 50px;
+    width: 50%;
+    font-family: 'Caveat', cursive;
+    font-size: 30px;
+    color: white;
+}
+
+/* His Records Section */
+
+#records {
+    background-color: #FFD56F;
+    height: 100%;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 15px;
+}
+
+#recordSectionTitle {
+    color: white;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    font-size: 75px;
+    padding-left: 40%;
+    padding-top: 20px;
+}
+
+#recordGrid {
+    display: flex;
+    padding-left: 5%;
+    margin-top: -30px;
+    padding-bottom: 20px;
+}
+
+#imageAlbum {
+    height: 200px;
+    padding-left: 10px;
+}
+
+#albumTitle {
+    margin-top: -15px;
+    color: white;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    font-size: 50px;
+    padding-left: 45%;
+}
+
+#MD2 {
+    padding-right: 10%;
+}
+
+#saladDays {
+    padding-right: 10%;
+}
+
+#sdTitle{
+    margin-top: 0px;
+    color: white;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    font-size: 35px;
+    padding-left: 18%;
+}
+
+#anotherOne {
+    padding-right: 10%;
+}
+
+#aoTitle {
+    margin-top: 0px;
+    color: white;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    font-size: 35px;
+    padding-left: 15%;
+}
+
+#oldDog {
+    padding-right: 10%;
+}
+
+#odTitle {
+    margin-top: 0px;
+    color: white;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    font-size: 35px;
+    padding-left: 15%;
+}
+
+#cowboy {
+    padding-left: 25.5%;
+    padding-right: 10%;
+}
+
+#cTitle {
+    margin-top: 0px;
+    color: white;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    font-size: 25px;
+    /* padding-left: 5%; */
+}
+
+#hotDog {
+    padding-right: 10%;
+}
+
+#hdTitle{
+    margin-top: 0px;
+    color: white;
+    font-family: 'Caveat', cursive;
+    /* font-family: 'Poiret One', cursive; */
+    font-size: 30px;
+    padding-left: 5%;
+}
+
+/* My Experience Sections */
+
+#myExperience {
+    margin-top: -6%;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(macOL.jpeg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#myExperienceTitle {
+    color: white;
+    font-family: 'Caveat', cursive;
+    font-size: 75px;
+    padding-left: 38%;
+    padding-top: 10%;
+}
+
+#macVideo {
+    margin-top: -2%;
+    padding-left: 37%;
+    padding-bottom: 15%;
+}
+
+/* Footer Sections */
+#footer {
+    padding-left: 40%;
+    font-family: 'Caveat', cursive;
+    color: white;
+    background-color: #202226;
+    margin-top: -5px;
+    margin-bottom: -6px;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#name {
+    padding-left: 8.7%;
+}
+
+#copyright {
+    padding-left: 8.5%;
+}
+
+#rights {
+    padding-left: 10px;
+}
